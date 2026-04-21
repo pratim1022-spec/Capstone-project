@@ -33,5 +33,3 @@ Based on SAP ERP implementation for:
 - SAP SD Concepts
 
 ---
-
-## 📂 Project Structure
