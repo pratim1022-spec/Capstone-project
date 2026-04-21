@@ -1,6 +1,13 @@
 {
   "company": "NovaTex Industries Pvt. Ltd.",
-  "module": "SAP SD",
-  "process": "Order-to-Cash",
-  "currency": "INR"
+  "sales_org": "NV10",
+  "plant": "PU01",
+  "currency": "INR",
+  "materials": [
+    {
+      "id": "NVT-TX-001",
+      "name": "HDPE Fabric",
+      "price": 850
+    }
+  ]
 }
